@@ -396,3 +396,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# npm pkg
+/node_modules
+/.pnp
+.pnp.js
